@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.markssheet{
+  width: 500px;
+  height: 400px;
+  border: 2px solid black;
+  background-color: aqua;
+  display: inline-block;
+  padding: 25px;
+  margin: 20px;
+}
+.markssheet label{
+  display: inline-block;
+  width: 100px;
+}
+.markssheet div{
+  margin: 15px;
+}
+
+.inter{
+  width: 500px;
+  height: 700px;
+  box-shadow: 0 0 10px black;
+  border-radius: 10px;
+  background-color: lightblue;
+  display: inline-block;
+  padding: 25px;
+}
+.inter label{
+  display: inline-block;
+  width: 100px;
+}
+.inter div{
+  margin: 15px;
+}
